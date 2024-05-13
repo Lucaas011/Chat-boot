@@ -24,6 +24,7 @@ Este projeto foi desenvolvido para fins educacionais e experimentais.
 A API Key utilizada no projeto foi removida por motivos de segurança. Para executar o chatbot, você precisará fornecer sua própria chave de API do Google Gemini.
 
 Como configurar sua API Key
+
 Obtenha sua chave de API:
 Acesse o Google AI Platform.
 Crie um projeto ou selecione um existente.
