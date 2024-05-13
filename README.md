@@ -17,3 +17,23 @@ Google AI Studio: Exploração de ferramentas como Temperatura, Safety Settings 
 Google Colab: Utilização do ambiente de desenvolvimento para criar e gerenciar o projeto.
 Desenvolvimento de Chatbots: Aprendizado sobre estrutura de código, lógica de programação e criação de menus interativos.
 Segurança de API Keys: Implementação de medidas para proteger minhas credenciais.
+
+Observações
+
+Este projeto foi desenvolvido para fins educacionais e experimentais.
+A API Key utilizada no projeto foi removida por motivos de segurança. Para executar o chatbot, você precisará fornecer sua própria chave de API do Google Gemini.
+
+Como configurar sua API Key
+Obtenha sua chave de API:
+Acesse o Google AI Platform.
+Crie um projeto ou selecione um existente.
+Habilite a API "Generative Language API".
+Crie credenciais e copie sua API Key.
+
+Defina a variável de ambiente:
+Acesse o menu "Ambiente de execução" no Google Colab.
+Clique em "Variáveis de ambiente".
+Adicione uma nova variável com o nome SECRET_KEY e cole sua API Key como valor.
+
+Execute o código:
+Agora você poderá executar o código do chatbot com sua própria chave de API.
