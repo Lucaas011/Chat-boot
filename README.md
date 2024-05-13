@@ -32,6 +32,7 @@ Habilite a API "Generative Language API".
 Crie credenciais e copie sua API Key.
 
 Defina a variável de ambiente:
+
 Acesse o menu "Ambiente de execução" no Google Colab.
 Clique em "Variáveis de ambiente".
 Adicione uma nova variável com o nome SECRET_KEY e cole sua API Key como valor.
